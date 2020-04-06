@@ -9,7 +9,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "react-native-webview-bridge-updated": "https://github.com/GrioSF/react-native-webview-bridge.git#rn-O.60-fix"
+    "react-native-webview-bridge-updated": "GrioSF/react-native-webview-bridge.git#rn-O.60-fix"
   },
   "peerDependencies": {
     "react": "*",
